@@ -13,7 +13,7 @@ Welcome to my development space! This profile serves as a curated library of my 
 * **Specializations:** * **Data Structures:** Advanced handling of Lists, Dictionaries, and Linked Lists.
     * **OOP:** Solid foundation in Object-Oriented Programming (Classes, inheritance, and methods).
     * **Data Processing:** Pattern matching and text manipulation using Regular Expressions (Regex).
-* [**Explore Python Projects**](link-to-your-python-folder)
+* [**Explore Python Projects**]([link-to-your-python-folder](https://github.com/d4vidrg07/Python))
 
 ### ☕ Java
 * **Proficiency:** Foundational (In Progress)
