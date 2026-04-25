@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm David 👋
 
 Welcome to my development space! This profile serves as a curated library of my code, organized by language and technical complexity.
 
