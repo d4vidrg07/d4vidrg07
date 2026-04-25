@@ -18,7 +18,7 @@ Welcome to my development space! This profile serves as a curated library of my 
 ### ☕ Java
 * **Proficiency:** Foundational (In Progress)
 * **Focus:** Syntax fundamentals, control flow, and basic application logic as I expand my backend skills.
-* [**Explore Java Exercises**](link-to-your-java-folder)
+* [**Explore Java Exercises**]([link-to-your-java-folder](https://github.com/d4vidrg07/Java-Basics))
 
 ---
 
