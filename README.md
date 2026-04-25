@@ -7,18 +7,18 @@ Welcome to my development space! This profile serves as a curated library of my 
 ### ⚙️ Low-Level Programming (MIPS Assembly)
 * **Proficiency:** Intermediate / Competent
 * **Focus:** Register management, memory optimization, and algorithmic implementation in MIPS architecture.
-* [**Explore MIPS Programs**](link-to-your-mips-folder)
+* [**Explore MIPS Programs**](https://github.com/d4vidrg07/MIPS-Assembly)
 
 ### 🐍 Python Development
 * **Specializations:** * **Data Structures:** Advanced handling of Lists, Dictionaries, and Linked Lists.
     * **OOP:** Solid foundation in Object-Oriented Programming (Classes, inheritance, and methods).
     * **Data Processing:** Pattern matching and text manipulation using Regular Expressions (Regex).
-* [**Explore Python Projects**]([link-to-your-python-folder](https://github.com/d4vidrg07/Python))
+* [**Explore Python Projects**](https://github.com/d4vidrg07/Python)
 
 ### ☕ Java
 * **Proficiency:** Foundational (In Progress)
 * **Focus:** Syntax fundamentals, control flow, and basic application logic as I expand my backend skills.
-* [**Explore Java Exercises**]([link-to-your-java-folder](https://github.com/d4vidrg07/Java-Basics))
+* [**Explore Java Exercises**](https://github.com/d4vidrg07/Java-Basics)
 
 ---
 
